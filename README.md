@@ -7,9 +7,9 @@
 La clase `GeoSensors` se utiliza para la georreferenciación de sensores mediante la transformación de coordenadas a través de sistemas de referencia. Esta implementación es adecuada para sensores de imagen, angulares y GPS, y utiliza matrices de rotación para realizar las conversiones necesarias.
 
 ## Modo de Uso
-
+>[!IMPORTANT]
 **Advertencia:** Asegúrate de contar con las dependencias de python necesarias para el funcionamiento de la clase `GeoSensors`. Puedes instalarlas utilizando pip con el siguiente comando:
--  `pip install numpy`
+- `pip install numpy`
 - `pip install pyproj`
 - `pip install matplotlib`
 
