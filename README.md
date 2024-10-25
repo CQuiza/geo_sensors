@@ -8,6 +8,11 @@ La clase `GeoSensors` se utiliza para la georreferenciación de sensores mediant
 
 ## Modo de Uso
 
+**Advertencia:** Asegúrate de contar con las dependencias de python necesarias para el funcionamiento de la clase `GeoSensors`. Puedes instalarlas utilizando pip con el siguiente comando:
+-  `pip install numpy`
+- `pip install pyproj`
+- `pip install matplotlib`
+
 Para utilizar la clase `GeoSensors`, primero debes crear una instancia de la misma proporcionando los siguientes parámetros:
 
 - `eframe_geod_coords`: Un diccionario que contiene las coordenadas geodésicas en el marco de referencia E.
