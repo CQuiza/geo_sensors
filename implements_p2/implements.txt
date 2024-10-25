@@ -1,0 +1,1 @@
+en esta carpeta se programa todo lo relacionado con la implementacion de la clase GeoSensors() en los datos aportados en la practica 2, sesion 6 de la asignatura Georreferenciacon de sensores.
